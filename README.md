@@ -20,4 +20,4 @@ The folder Results contains pictures of the prototype made during the internship
 The main outcome of the internship is a prototype for a physical action-based embodied design. 
 
 ## Funding and guidance
-The prototype was funded by @LilisProtoLab and the Freudenthal Institute. Moreover, while building the prototype I have received guidance and advice on how to build the prototype from the team at @LilisProtoLab. Thank you all so much!
+The prototype was funded by @LilisProtoLab (https://github.com/LilisProtoLab) and the Freudenthal Institute. Moreover, while building the prototype I have received guidance and advice on how to build the prototype from the team at @LilisProtoLab. Thank you all so much!
